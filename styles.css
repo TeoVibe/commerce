@@ -63,3 +63,18 @@ body {
     text-align: center;
   }
 
+  .contact-container {
+    text-align: center;
+    width: 50%; /* adjust the width as needed */
+    margin: 0 auto; /* center the element horizontally */
+  }
+  
+  .social-media {
+    display: flex;
+    justify-content: space-around; /* distribute the links evenly across the container */
+  }
+  
+  a {
+    color: blue;
+  }
+  
